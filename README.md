@@ -4,6 +4,9 @@ I’m a Software Engineering student at the University of Malaya, currently in m
 
 I enjoy connecting with people from different cultures, love creating things that tell a story, and believe tech should always make life a little brighter ✨
 
+✨Course Expectation : 
+I’m excited to learn how to keep software working well and improve it over time in this course.
+
 ⚡Fun fact:
 Many people think I’m from the Faculty of Engineering… but I’m actually from Faculty of Computer Science and Information Technology 😆
 
