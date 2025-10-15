@@ -10,7 +10,7 @@ I’m excited to learn how to keep software working well and improve it over tim
 ⚡Fun fact:
 Many people think I’m from the Faculty of Engineering… but I’m actually from Faculty of Computer Science and Information Technology 😆
 
-💬Let’s connect!
 Always happy to meet new people, learn something new, or just share ideas over a good chat.
 
-📫www.linkedin.com/in/yan-jie-cheong
+https://github.com/Yanjie0910
+
